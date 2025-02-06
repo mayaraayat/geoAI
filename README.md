@@ -46,6 +46,12 @@ Hyperparameter Optimization: By tuning learning rates, batch sizes, and loss fun
 Better Handling of Temporal Variations: Since locust breeding grounds shift over time, leveraging Prithvi 2.0’s ability to recognize temporal trends improved segmentation robustness.
 
 
+## Dataset 
+
+The dataset was provided by the organizers and consisted of satellite imagery of Africa. The dataset was divided into training and test sets, with annotations for locust breeding grounds. It can be created and downloaded using the InstaGeo tool provided by InstaDeep.
+
+https://www.kaggle.com/competitions/geo-ai-hack/overview
+
 ## Acknowledgment
 
 A huge thanks to the GeoAI Hackathon organizers -InstaDeep, Datacraft and AFD- for providing this opportunity and a challenging dataset. Special thanks to InstaDeep for their contributions in geospatial AI.
